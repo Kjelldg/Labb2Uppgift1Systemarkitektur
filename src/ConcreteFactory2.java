@@ -1,5 +1,5 @@
 
-public class ConcreteFactory1 extends AbstractFactory {
+public class ConcreteFactory2 extends AbstractFactory {
 
 	@Override
 	public void CreateProductA() {
