@@ -1,3 +1,4 @@
+package factories;
 
 public class ConcreteFactory2 extends AbstractFactory {
 
