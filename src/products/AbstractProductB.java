@@ -1,5 +1,10 @@
 package products;
 
-public class AbstractProductB {
+public abstract class AbstractProductB {
+
+	@Override
+	public String toString() {
+		return "This is AbstractProductB.";
+	}
 
 }

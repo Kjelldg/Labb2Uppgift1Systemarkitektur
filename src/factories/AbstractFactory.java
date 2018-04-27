@@ -5,8 +5,8 @@ import products.AbstractProductB;
 
 public abstract class AbstractFactory {
 
-	public abstract AbstractProductA CreateProductA();
+	public abstract AbstractProductA createProductA();
 
-	public abstract AbstractProductB CreateProductB();
+	public abstract AbstractProductB createProductB();
 
 }
